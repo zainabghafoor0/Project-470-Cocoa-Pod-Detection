@@ -18,6 +18,6 @@ YOLOv8n (YOLOv8 Nano)
 
 ## Project Goals
 1. Prepare the cocoa pod dataset.
-2. Train a YOLOv8n detection model.
+2. Train a YOLO detection model.
 3. Evaluate detection accuracy.
 4. Explore ripeness and fallen-pod detection.
