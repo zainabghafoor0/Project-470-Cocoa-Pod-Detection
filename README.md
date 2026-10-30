@@ -1,7 +1,7 @@
 # Cocoa Pod Detection for a Harvesting Robot
 
 ## Project Overview
-This project focuses on developing a computer vision system that detects cocoa pods using YOLOv8n. The goal is to help a harvesting robot identify cocoa pods on trees and eventually detect fallen pods on the ground.
+This project focuses on developing a computer vision system that detects cocoa pods using YOLO. The goal is to help a harvesting robot identify cocoa pods on trees and eventually detect fallen pods on the ground.
 
 ## Datasets
 RipSetCocoaCNCH12 — 4,116 labeled cocoa pod images with different ripeness stages.
