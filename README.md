@@ -13,7 +13,6 @@ YOLOv8n (YOLOv8 Nano)
 
 ## Tools
 - Python
-- Google Colab
 - Ultralytics YOLO
 - GitHub
 
